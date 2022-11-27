@@ -7,11 +7,5 @@ html {
 
 body {
     margin: 0;
-}
-
-ul li{
-    background-color: blue;
-}
-h1 {
-    color: red;
+    background: #181818;
 }
